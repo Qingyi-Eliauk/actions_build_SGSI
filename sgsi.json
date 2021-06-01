@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://file.fiime.cn/Mi%20ROM/Flyme9-11/%E5%85%B6%E4%BB%96%E5%88%86%E5%8C%BA/update0526.zip",
+  "rom_url": "http://download.h2os.com/OnePlus8T/OBT/OnePlus8THydrogen_15.Y.03_OTA_0030_all_2104201600_17d09d7a6e87466f.zip",
   "rom_name": "update0526.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "flyme",
+  "rom_type": "h2os",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
