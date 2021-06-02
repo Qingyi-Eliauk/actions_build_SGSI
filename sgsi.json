@@ -1,9 +1,9 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus8T/OBT/OnePlus8THydrogen_15.Y.03_OTA_0030_all_2104201600_17d09d7a6e87466f.zip",
-  "rom_name": "update0526.zip",
+  "rom_url": "https://www.coolapk.com/link?url=https%3A%2F%2Fdownload.meizu.com%2FFirmware%2FFlyme%2Fmeizu17_Pro%2F9.21.5.31%2Fcn_daily%2F20210531190535%2Fd11e965d%2Fupdate.zip",
+  "rom_name": "update.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "h2os",
+  "rom_type": "flyme",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
