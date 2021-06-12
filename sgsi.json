@@ -1,9 +1,9 @@
 {
-  "rom_url": "https://download.meizu.com/Firmware/Flyme/meizu17_Pro/9.21.6.8/cn_daily/20210608041845/faa57cd8/update.zip",
-  "rom_name": "update.zip",
+  "rom_url": "https://dl.google.com/developers/android/sc/images/factory/redfin-spp1.210122.020.a3-factory-c1996236.zip",
+  "rom_name": "redfin-spp1.210122.020.a3-factory-c1996236.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "flyme",
+  "rom_type": "pixel",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
