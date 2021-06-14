@@ -3,7 +3,7 @@
   "rom_name": "OnePlus8Hydrogen_15.Y.19_OTA_0190_all_2104062059_24820685be694b05.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "pixel",
+  "rom_type": "h2os",
   "light_fix": true,
   "bug_fix": true,
   "version": "11",
