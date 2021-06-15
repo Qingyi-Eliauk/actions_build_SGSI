@@ -5,7 +5,7 @@
   "make_type": "AB",
   "rom_type": "color",
   "light_fix": false,
-  "bug_fix": true,
+  "bug_fix": false,
   "version": "11",
   "upload_transfer": false,
   "upload_release": true,
