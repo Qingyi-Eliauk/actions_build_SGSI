@@ -1,9 +1,9 @@
 {
-  "rom_url": "http://download.h2os.com/OnePlus8/color/OP8_ops.zip",
-  "rom_name": "OP8_ops.zip",
+  "rom_url": "https://download.h2os.com/OnePlus8T/MP/OnePlus8THydrogen_15.H.24_OTA_0240_all_2103232120_c0c1b9b9c454421c.zip",
+  "rom_name": "OnePlus8THydrogen_15.H.24_OTA_0240_all_2103232120_c0c1b9b9c454421c.zip",
   "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
-  "rom_type": "color",
+  "rom_type": "oxygen",
   "light_fix": false,
   "bug_fix": false,
   "version": "11",
